@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "SCRIPT AUTO INSTALL WINDOWS by HIDESSH"
+echo "SCRIPT AUTO INSTALL WINDOWS by SENO6262"
 echo
 echo "Pilih OS yang ingin anda install"
 echo "[1] Windows 2019(Default)"
